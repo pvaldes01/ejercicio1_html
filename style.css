@@ -1,0 +1,79 @@
+body {
+	background: teal;
+	/* background: url(ìmages/nombredelarchivo.jpg`) no-repeat center center fixed; */
+	color: black;
+	font-family: Montserrat;
+}
+#wrapper{
+	width:90%;
+	height: auto;
+	background: pink;
+	margin: 0 auto;
+	padding: 12px;
+
+}
+
+#heading{
+font-size: 1500;
+}
+h1{
+
+}
+#cartoons{
+
+}
+#one{
+ background: yellow;
+ width: 27%;
+ height: auto;
+ margin: 30px;
+ padding: 12px;
+ display: inline-block;
+
+}
+#two{
+ background: blue;
+ width: 27%;
+ height: auto;
+ margin: 12px;
+ padding: 12px;
+ display: inline-block;
+
+}
+#three{
+ background: white;
+ width: 27%;
+ height: auto;
+ margin: 12px;
+ padding: 12px;
+ display: inline-block;
+
+}
+#one #featured-image {
+	background: url('images/arnold.jpg') center center;
+	background-size: cover;
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+	border-radius: 200px;
+}
+#two #featured-image {
+	background: url('images/rugratss.jpg') center center;
+	background-size: cover;
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+	border-radius: 200px;
+
+}
+#three #featured-image {
+	background: url('images/powepuff.jpg') center center;
+	background-size: cover;
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+	border-radius: 200px;
+
+h2{
+
+}
