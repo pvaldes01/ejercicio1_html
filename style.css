@@ -2,7 +2,7 @@ body {
 	background: teal;
 	/* background: url(ìmages/nombredelarchivo.jpg`) no-repeat center center fixed; */
 	color: black;
-	font-family: Montserrat;
+	font-family: 'Quicksand', sans-serif;
 }
 #wrapper{
 	width:90%;
